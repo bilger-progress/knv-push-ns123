@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "765209267254",
+    "firebase_url": "https://knv-push-ns123.firebaseio.com",
+    "project_id": "knv-push-ns123",
+    "storage_bucket": "knv-push-ns123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765209267254:android:711e61ea8ac75385",
+        "android_client_info": {
+          "package_name": "org.nativescript.knvpushns123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765209267254-1skcgbpi2qoqqm20m9k1rlutfajqkd1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcS6iUS-XaDYZlKzHVsrOZPYVY3J4FTr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
